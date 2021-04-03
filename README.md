@@ -17,7 +17,7 @@
 - Find my below repo for refrence.
 
 ### Languages
-[![C/C++](https://img.shields.io/badge/-C%2F/C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/subramanya-a/will-be-updated-soon)
+[![C/C++](https://img.shields.io/badge/-C%2FC++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/subramanya-a/will-be-updated-soon)
 [![Embedded C](https://img.shields.io/badge/Embedded%20C-000?&logo=Embedded%20C)](https://github.com/subramanya-a/will-be-updated-soon)
 [![Makefile](https://img.shields.io/badge/-makefile-000?&logo=makefile&logoColor=ddc508)](https://github.com/subramanya-a/will-be-updated-soon)
 [![Linker](https://img.shields.io/badge/-Linker-000?&logo=Linker&logoColor=007396)](https://github.com/subramanya-a/will-be-updated-soon)
