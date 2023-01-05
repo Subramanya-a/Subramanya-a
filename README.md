@@ -45,6 +45,15 @@
 [![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000?)](https://github.com/subramanya-a/will-be-updated-soon)
 [![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-000?)](https://github.com/subramanya-a/will-be-updated-soon)
 
+### Web Projects
+
+[![Django](https://img.shields.io/badge/-Django-000?)](https://github.com/subramanya-a/will-be-updated-soon)
+[![HTML,HTMX & CSS](https://img.shields.io/badge/-HTML-HTMLx-CSS-000?)](https://github.com/subramanya-a/will-be-updated-soon)
+[![React](https://img.shields.io/badge/-React-000?)](https://github.com/subramanya-a/will-be-updated-soon)
+
+### Other Fork Projects 
+[![Clone Notion](https://img.shields.io/badge/-Clone-Notion-000?)](https://github.com/subramanya-a/notion-clone)
+
 <p  align="right">  
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </p>
