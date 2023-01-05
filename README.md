@@ -50,12 +50,12 @@
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/subramanya-a/will-be-updated-soon)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://github.com/subramanya-a/will-be-updated-soon)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/subramanya-a/will-be-updated-soon)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)]
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/subramanya-a/will-be-updated-soon)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/subramanya-a/will-be-updated-soon)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/subramanya-a/will-be-updated-soon)
 
 ### Other Fork Projects 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white))](https://github.com/subramanya-a/notion-clone)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/subramanya-a/notion-clone)
 
 <p  align="right">  
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
@@ -69,4 +69,5 @@
 <!---
 Subramanya-a/Subramanya-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Badges: https://github.com/Ileriayo/markdown-badges
 --->
